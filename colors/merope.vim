@@ -259,6 +259,7 @@ else " DARK
   hi StatusLineNC		ctermfg=250 ctermbg=235  cterm=none		guifg=#bcbcbc guibg=#262626 gui=none
   hi Tag			ctermfg=250 ctermbg=NONE cterm=none		guifg=#bcbcbc guibg=NONE gui=none
   hi WildMenu		ctermfg=250 ctermbg=NONE cterm=none		guifg=#bcbcbc guibg=NONE gui=none
+  hi IblIndent      ctermfg=234 ctermbg=NONE cterm=none     guifg=#1c1c1c guibg=NONE gui=none
 
   " DIFF
   hi DiffAdd		ctermfg=250 ctermbg=22  cterm=none		guifg=#bcbcbc guibg=#005f00 gui=none
